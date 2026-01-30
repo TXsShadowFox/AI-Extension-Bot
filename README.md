@@ -1,1 +1,3 @@
 # AI-Extension-Bot
+
+An AI Powered Reply bot that generate comments or textual post to post on or reply on someone comments on platform like twitter, reddit, medium etc.....
